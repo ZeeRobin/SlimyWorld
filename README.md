@@ -1,1 +1,1 @@
-# SlimeyWorld
+# SlimyWorld
