@@ -1,0 +1,565 @@
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/Purple.uasset" 0
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 2
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 3
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 4
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 5
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Bouncy/NewPhysicalMaterial.uasset" 6
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Bouncy/BouncyBall.uasset" 7
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Actors/BouncyBall.uasset" 8
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Geometry/Meshes/CubeMaterial.uasset" 9
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Geometry/Meshes/1M_Cube.uasset" 10
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 11
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Geometry/Meshes/TemplateFloor.uasset" 12
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 13
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 14
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/Green1.uasset" 15
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Materials/Green1.uasset" 16
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Materials/InkFont.uasset" 17
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Sequencers/SlimeyWorldSequence.uasset" 18
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/MovingSlime.uasset" 19
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/SlimeChar2.uasset" 20
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/SlimeChar3.uasset" 21
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/SlimeChar4.uasset" 22
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/SlimeySlime.uasset" 23
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/SlimeySlime1.uasset" 24
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/SlimeySlime2.uasset" 25
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Basic_Wall.uasset" 26
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Pillar_50x500.uasset" 27
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Wall_400x300.uasset" 28
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Wall_400x400.uasset" 29
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Wall_500x500.uasset" 30
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 31
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 32
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Collapse01.uasset" 33
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Collapse02.uasset" 34
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Explosion01.uasset" 35
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Explosion02.uasset" 36
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Fire01.uasset" 37
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Fire_Sparks01.uasset" 38
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Light01.uasset" 39
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Light01_Cue.uasset" 40
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Light02.uasset" 41
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Light02_Cue.uasset" 42
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Smoke01.uasset" 43
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Starter_Birds01.uasset" 44
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Starter_Music01.uasset" 45
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Starter_Wind05.uasset" 46
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Starter_Wind06.uasset" 47
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Steam01.uasset" 48
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Explosion_Cue.uasset" 49
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Burst_M.uasset" 50
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_Burst.uasset" 51
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 52
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 53
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 55
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 56
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 57
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 58
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 59
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/P_Explosion.uasset" 60
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 61
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 62
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 63
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Bush_D.uasset" 64
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Bush_N.uasset" 65
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_Bush.uasset" 66
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Bush.uasset" 67
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Chair_M.uasset" 68
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Chair_N.uasset" 69
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_Chair.uasset" 70
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Couch.uasset" 71
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Glass.uasset" 72
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Door_M.uasset" 73
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Door_N.uasset" 74
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_Door.uasset" 75
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Door.uasset" 76
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 77
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 78
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 79
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 80
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 81
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 82
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_RockMesh_M.uasset" 83
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_RockMesh_N.uasset" 84
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_Rock.uasset" 85
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Rock.uasset" 86
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Shelf_M.uasset" 87
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Shelf_N.uasset" 88
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_Shelf.uasset" 89
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Shelf.uasset" 90
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Basic_Floor.uasset" 91
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Stairs.uasset" 92
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 93
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Pipe.uasset" 94
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 95
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 96
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Plane.uasset" 97
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Torus.uasset" 98
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Trim.uasset" 99
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 100
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 101
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 102
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Tube.uasset" 103
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 104
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 105
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 106
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPerson/Meshes/RampMaterial.uasset" 107
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 108
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 109
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 110
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 111
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 112
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 113
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 114
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 115
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 116
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 117
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPersonRun.uasset" 118
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 119
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 120
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 121
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 122
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/Slimey_BB.uasset" 123
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/FindBall.uasset" 124
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/FindPlayerLocation.uasset" 125
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/FindRandomPoint.uasset" 126
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/Slimey_BT.uasset" 127
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/Slimey_Controller.uasset" 128
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/SlimeChar1.uasset" 129
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 130
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 131
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 132
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 133
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 134
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 135
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 136
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 137
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 138
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 139
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 140
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 141
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 142
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 143
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 144
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 145
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 146
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 147
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/SlimeyAI.uasset" 148
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 149
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/BlenderModels/SlimeModel1.uasset" 150
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Bouncy/aud_chomp.uasset" 151
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Bouncy/aud_chomp_Cue.uasset" 152
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/Slime.uasset" 153
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 154
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Bouncy/Chomp2.uasset" 155
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Sounds/zapsplat_cartoon_boing_ascend_jaw_harp_004_24202.uasset" 156
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Sounds/Boing.uasset" 157
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Fonts/aAlloyInk.uasset" 158
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Fonts/aAlloyInk_Font.uasset" 159
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Sounds/zapsplat_multimedia_button_click_fast_plastic_49161__1_.uasset" 160
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Sounds/Click.uasset" 161
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Widgets/GameOver.uasset" 162
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Projectile/SlimeBall.uasset" 163
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Widgets/PlayerHud.uasset" 164
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/SlimeCharacter.uasset" 165
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 166
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/JumpSlime.uasset" 167
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/SlimeChar.uasset" 168
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/Slime_Child.uasset" 169
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 170
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 171
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 172
+"../../../Engine/Content/BasicShapes/Cone.uasset" 173
+"../../../Engine/Content/BasicShapes/Cube.uasset" 174
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 175
+"../../../Engine/Content/BasicShapes/Plane.uasset" 176
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 177
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 178
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 179
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 180
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 181
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 182
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 183
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 184
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 185
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 186
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 187
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 188
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 189
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 190
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 191
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 192
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 193
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 194
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 195
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 196
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 197
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 198
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 199
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 200
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 201
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 202
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 203
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 204
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 205
+"../../../Engine/Content/EditorResources/S_Note.uasset" 206
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 207
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 208
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 209
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 210
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 211
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 212
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 213
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 214
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 215
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 216
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 217
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 218
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 219
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 220
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 221
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 222
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 223
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 224
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 225
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 226
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 227
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 228
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 229
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 230
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 231
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 232
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 233
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 234
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 235
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 236
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 237
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 238
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 239
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 240
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 241
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 242
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 243
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 245
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 246
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 247
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 248
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 250
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 251
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 252
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 253
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 254
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 255
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 257
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 258
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 259
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 260
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 261
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 262
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 263
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 264
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 265
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 266
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 267
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 268
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 269
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 270
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 271
+"../../../Engine/Content/EngineResources/Black.uasset" 272
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 273
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 274
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 275
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 276
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 277
+"../../../Engine/Content/EngineSounds/Master.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 279
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 280
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 281
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 282
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 283
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 284
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 302
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 303
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 304
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 305
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 306
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 307
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 308
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 309
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 310
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 311
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 312
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 313
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 314
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 315
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 316
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 317
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 318
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 319
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 320
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 321
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 322
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 323
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 324
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 326
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 328
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 329
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 330
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 331
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 332
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/Slime_Child1.uasset" 333
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/Slime_Child2.uasset" 334
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/Slime_Child3.uasset" 335
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 336
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 337
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 338
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 339
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 340
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 341
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 342
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 343
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 344
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Levels/Challenge_BuiltData.uasset" 345
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/Green.uasset" 346
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 347
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 348
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_MacroVariation.uasset" 349
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 350
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 351
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Levels/Challenge.umap" 352
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/NothingSlime.uasset" 353
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/ThirdPersonBP/Blueprints/AI/NothingSlime_Child.uasset" 354
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Plants/Bush.uasset" 355
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/SlimeyMaterials/Brown.uasset" 356
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Cone.uasset" 357
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 358
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Plants/Tree.uasset" 359
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Levels/MainMenuLevel_BuiltData.uasset" 360
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 361
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Widgets/MainMenu.uasset" 362
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Levels/MainMenuLevel.umap" 363
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Levels/ThirdPersonExampleMap_BuiltData.uasset" 364
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/Levels/ThirdPersonExampleMap.umap" 365
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 366
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 367
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 368
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 369
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 370
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 371
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 372
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 373
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 374
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 375
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 376
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 377
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 378
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_AssetPlatform.uasset" 379
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 380
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 381
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 382
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 383
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 384
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 385
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 386
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 387
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Maps/Advanced_Lighting.umap" 388
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 389
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 390
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 391
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 392
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 393
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 394
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Metal_Copper.uasset" 395
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Statue_M.uasset" 396
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Statue_N.uasset" 397
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 398
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Floor_400x400.uasset" 399
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 400
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Chair.uasset" 401
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_Statue.uasset" 402
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Statue.uasset" 403
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_TableRound_M.uasset" 404
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_TableRound_N.uasset" 405
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_TableRound.uasset" 406
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_TableRound.uasset" 407
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Maps/Minimal_Default.umap" 408
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Fire01_Cue.uasset" 409
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 410
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 411
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 412
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Water_N.uasset" 413
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 414
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 415
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/P_Fire.uasset" 416
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 417
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Smoke01_Cue.uasset" 418
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/P_Smoke.uasset" 419
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 420
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 421
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Spark_Core.uasset" 422
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_Spark.uasset" 423
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/P_Sparks.uasset" 424
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 425
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Steam01_Cue.uasset" 426
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/P_Steam_Lit.uasset" 427
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 428
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Lamp_M.uasset" 429
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Lamp_N.uasset" 430
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_Lamp.uasset" 431
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 432
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 433
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 434
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 435
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 436
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 437
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 438
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 439
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 440
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 441
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 442
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 443
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 444
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 445
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 446
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 447
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 448
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 449
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 450
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 451
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 452
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 453
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 454
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 455
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 456
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 457
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 458
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 459
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 460
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 461
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 462
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 463
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Gradinet_01.uasset" 464
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 465
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 466
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 467
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 468
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 469
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 470
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 471
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 472
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 473
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 474
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 475
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 476
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 477
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 478
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 479
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 480
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 481
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 482
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 483
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 484
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 485
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 486
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Ground_Grass.uasset" 487
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 488
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 489
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 490
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 491
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 492
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Ground_Moss.uasset" 493
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 494
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 495
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Metal_Gold.uasset" 496
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 497
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Metal_Rust.uasset" 498
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 499
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 500
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Metal_Steel.uasset" 501
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 502
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 503
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 504
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 505
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 506
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 507
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 508
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 509
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Rock_Slate.uasset" 510
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 511
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 512
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 513
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 514
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 515
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 516
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 517
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 518
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 519
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 520
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 521
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Tech_Panel.uasset" 522
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Water_Lake.uasset" 523
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Water_M.uasset" 524
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Water_Ocean.uasset" 525
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 526
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 527
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 528
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 529
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 530
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 531
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 532
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 533
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Wood_Oak.uasset" 534
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 535
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 536
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Wood_Pine.uasset" 537
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 538
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 539
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 540
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Wall_400x200.uasset" 541
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 542
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 543
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Collapse_Cue.uasset" 544
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 545
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 546
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 547
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 548
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/MaterialSphere.uasset" 549
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Frame_M.uasset" 550
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Textures/T_Frame_N.uasset" 551
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/Materials/M_Frame.uasset" 552
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_CornerFrame.uasset" 553
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_DoorFrame.uasset" 554
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_GlassWindow.uasset" 555
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_PillarFrame.uasset" 556
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_PillarFrame300.uasset" 557
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Props/SM_WindowFrame.uasset" 558
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Cube.uasset" 559
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 560
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Shapes/Shape_Sphere.uasset" 561
+"../../../../../../Users/racar/OneDrive/Documents/GitHub/Sequencer171/Slimy World/Content/StarterContent/Maps/StarterMap.umap" 562
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 563
+"../../../Engine/Content/Maps/Entry.umap" 564
